@@ -1,0 +1,8 @@
+{
+   "app":"../android/calibration-android.apk",
+   "platformName":"Android",
+   "platformVersion":"",
+   "deviceName":"",
+   "appPackage":"orange.iva.toolfactory.tapster.calibration.android",
+   "appActivity":"orange.iva.toolfactory.tapster.calibration.android.MainActivity"
+}

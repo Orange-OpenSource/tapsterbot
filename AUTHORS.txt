@@ -1,0 +1,8 @@
+Appium
+Chris G. Williams <chilliams@gmail.com>
+Erik Kastner <kastner@gmail.com>
+Jason Fox <jasonrobertfox@gmail.com>
+Jason Huggins <jrhuggins@gmail.com>
+Michal Laskowski <>
+Orange
+Tapster

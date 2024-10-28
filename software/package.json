@@ -1,26 +1,36 @@
 {
-   "name":"tapster",
-   "description":"Mobile automation robot",
-   "version":"2.0.0",
-   "homepage":"",
-   "author":[
+   "name": "tapster",
+   "description": "Mobile automation robot",
+   "version": "2.0.0",
+   "homepage": "",
+   "authors": [
       {
-         "name":"Jason Huggins",
-         "email":"jrhuggins@gmail.com"
+         "name": "Jason Huggins",
+         "email": "jrhuggins@gmail.com"
+      },
+      {
+         "name": "Orange",
+         "email": "pierreyves.lapersonne@orange.com"
       }
    ],
-   "repository":{
-      "type":"git",
-      "url":"https://github.com/tapsterbot/tapsterbot.git"
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Orange-OpenSource/tapsterbot"
    },
-   "engines":{
-      "node":"*"
+   "engines": {
+      "node": "*"
    },
    "dependencies": {
-     "johnny-five": "*",
-     "svg-path-parser": "*",
-     "xml2js": "*",
-     "express": "*",
-     "body-parser": "*"
+      "prompt": "1.0.0",
+      "fs": "0.0.2",
+      "os": "0.1.1",
+      "argparse": "1.0.9",
+      "wd": "1.5.0",
+      "hapi": "17.2.0",
+      "path": "0.12.7",
+      "johnny-five": "0.13.0",
+      "sylvester": "0.0.21",
+      "xml2js": "0.4.19",
+      "svg-path-parser": "1.1.0"
    }
 }
