@@ -4,7 +4,7 @@ This GitHub repository is a fork of the original [Jason Huggin's tapsterbot](htt
 It contains also improvements (direct or not) from [Dan Cuellar's fork](https://github.com/penguinho/tapsterbot).
 Some parts of this project have been implemented or reviewed internaly at Orange in 2018 and were expected to be sumbmitted in open source.
 This project has been finaly released so as to not prevent community to use it, and because forks on personal spaces was not appropriate.
-**You should not considere this proejct as active nor maintained since 2018**.
+**You should not consider this proejct as active nor maintained since 2018**.
 
 # Tapster - Mobile Automation Robot
 
